@@ -1,4 +1,4 @@
-@import url('https://fonts.google.com/specimen/Inter');
+8@import url('https://fonts.google.com/specimen/Inter');
 @import url('https://fonts.google.com/specimen/Lexend+Deca');
 
 * {
@@ -204,7 +204,7 @@ ul {
 @media (max-width:535px) {
 
     .wraper {
-        width: 95vw;
+        width: 90vw;
         height: 150vh;
     }
 }
