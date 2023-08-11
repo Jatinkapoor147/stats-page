@@ -16,6 +16,7 @@ body {
 
 .wraper {
     display: flex;
+    justify-content: center;
     flex-direction: column-reverse;
     position: relative;
     justify-content: space-between;
